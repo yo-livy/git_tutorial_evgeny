@@ -1,1 +1,2 @@
 Hello Git
+Hey it's sunny today!
